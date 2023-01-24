@@ -1,0 +1,15 @@
+{
+  "name": "json-reader",
+  "version": "1.0.0",
+  "description": "Json desktop reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "author": "Rui Artur",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "22.0.0"
+  }
+}
